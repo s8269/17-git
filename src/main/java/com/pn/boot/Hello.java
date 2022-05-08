@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("hello");
         System.out.println("hello321");
         System.out.println("hello123");
+        System.out.println("pushTest");
     }
 }
